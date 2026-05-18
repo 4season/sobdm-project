@@ -1,1 +1,2 @@
-# Seongnam-si_109_Bus_Delay_Prediction_Model
+# SOBDM Project
+### (Seongnam-si OneZeroNine(109) Bus Delay prediction Multilayer perceptron Model)
