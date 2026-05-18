@@ -1,0 +1,1 @@
+pub const POLICE: &str = "http://www.utic.go.kr/map/getproxy.do";

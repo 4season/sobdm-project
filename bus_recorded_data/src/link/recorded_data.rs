@@ -1,0 +1,1 @@
+pub const BusData: &str = "https://api.gbis.go.kr/ws/rest/pastarrivalservice/json?";
