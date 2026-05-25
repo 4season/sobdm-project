@@ -301,4 +301,4 @@ predictions = model.predict(new_data)
 ---
 
 **Last Updated**: 2026-05-25  
-**Version**: 1.0.0
+**Version**: 1.0.0-beta
