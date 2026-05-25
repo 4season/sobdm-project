@@ -37,3 +37,60 @@ keys.json
 *.dll
 *.so
 *.dylib
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+.pytest_cache/
+.coverage
+
+# Machine Learning / Data
+*.keras
+*.h5
+*.pkl
+*.joblib
+*.pth
+*.pt
+*.model
+
+# Data directories
+data/
+*/data/
+processed/
+*/processed/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+*.swp
+*.swo
+*~
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
