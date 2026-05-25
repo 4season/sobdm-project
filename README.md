@@ -1,5 +1,5 @@
 # 🚌 SOBDM Project
-### Seongnam-si 109 Bus Delay Prediction using Multilayer Perceptron (MLP)
+### Seongnam-si 109 Bus Delay Prediction Model using Multilayer Perceptron (MLP)
 
 **성남시 109번 버스 지연 시간 예측 모델**을 구축하는 프로젝트입니다. 머신러닝 기반 딥러닝 모델을 활용하여 버스 도착 시간을 정확하게 예측합니다.
 
