@@ -271,32 +271,11 @@ predictions = model.predict(new_data)
 
 ---
 
-## 🤝 기여 가이드
-
-버그 리포트, 기능 제안, Pull Request를 환영합니다!
-
----
-
 ## 📜 라이센스
 
 이 프로젝트는 **MIT License** 하에 배포됩니다.  
 자세한 내용은 [LICENSE](./LICENSE) 파일을 참고하세요.
 
----
-
-## 👤 프로젝트 관리자
-
-- **저자**: 4season
-- **이메일**: [GitHub 프로필](https://github.com/4season)
-
----
-
-## 📞 문의 및 지원
-
-프로젝트에 대한 질문이나 제안사항이 있으신 경우:
-- GitHub Issues를 통해 문제 제기
-- Pull Request로 개선 제안
-- 이메일을 통한 직접 연락
 
 ---
 
